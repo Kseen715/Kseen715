@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Kseen715&style=flat-square&color=blue" alt=""/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kseen715/imgs/main/favicon.ico" />
+  <img src="https://github.com/Kseen715/imgs/blob/main/sakura_kharune.png" />
 </p>
 
 ## Stats
