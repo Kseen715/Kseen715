@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kseen715&layout=compact&theme=transparent&langs_count=16&card_width=600&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 ## Tools
 <div>
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/CPP.svg" title="CPP" alt="CPP" width="40" height="40"/>
