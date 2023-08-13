@@ -16,17 +16,19 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: teuchezh
           template: classic
           # Base
           base: repositories, community
-          # Core
+          # Core          
           config_timezone: Europe/Moscow
           # Lines
           plugin_lines: yes
+          plugin_lines_sections: base, repositories, history
+          # Traffic
+          plugin_traffic: yes
           # Languages
           plugin_languages: yes
-          plugin_languages_other: yes
+          plugin_languages_other: no
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, lines
           plugin_languages_analysis_timeout: 15 # 1-60
