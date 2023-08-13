@@ -33,6 +33,7 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_analysis_timeout: 60 # 1-60
           plugin_languages_analysis_timeout_repositories: 15 # 0-15
+          plugin_languages_limit: 8 # 0-8
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_ignored: text, csv, svg, xml
           # Leetcode
