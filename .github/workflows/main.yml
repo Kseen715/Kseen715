@@ -18,10 +18,19 @@ jobs:
           # Options
           user: teuchezh
           template: classic
-          base: header, activity, repositories, community
+          # Base
+          base: repositories, community
+          # Core
           config_timezone: Europe/Moscow
           # Lines
           plugin_lines: yes
+          # Languages
+          plugin_languages: yes
+          plugin_languages_other: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: percentage, lines
+          plugin_languages_analysis_timeout: 15 # 1-60
+          plugin_languages_analysis_timeout_repositories: 15 # 0-15
           # Leetcode
           plugin_leetcode: yes
           plugin_leetcode_user: Kseen
