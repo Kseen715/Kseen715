@@ -15,3 +15,14 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: teuchezh
+          template: classic
+          base: header, activity, repositories, community
+          config_timezone: Europe/Moscow
+          # Lines
+          plugin_lines: yes
+          # Leetcode
+          plugin_leetcode: yes
+          plugin_leetcode_user: Kseen
+          plugin_leetcode_sections: solved
