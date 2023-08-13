@@ -43,5 +43,5 @@ jobs:
           # 16personalities
           plugin_16personalities: yes
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, profile, traits
+          plugin_16personalities_sections: personality, traits # profile
           plugin_16personalities_scores: yes
