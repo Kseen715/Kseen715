@@ -37,7 +37,7 @@ jobs:
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_ignored: text, csv, svg, xml
           commits_authoring: Denis Korenev, Kseen715, Kseen715@users.noreply.github.com, korenevdn@gmail.com, mrdragonpach@gmail.com, korenev_deni@edu.bstu.ru
-          plugin_languages_threshold: 1
+          plugin_languages_threshold: 0
           # Leetcode
           plugin_leetcode: yes
           plugin_leetcode_user: Kseen
