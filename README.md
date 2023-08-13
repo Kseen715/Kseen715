@@ -5,10 +5,6 @@
 </p>
 
 ## Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kseen715&show_icons=true&theme=transparent&card_width=600&include_all_commits=true&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kseen715&layout=compact&theme=transparent&langs_count=16&card_width=600&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <img align="center" src="/github-metrics.svg" alt="Metrics">
 
 ## Tools
