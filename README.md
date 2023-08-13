@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=Kseen715&style=flat-square&color=blue" alt=""/>
 <h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Kseen!</h1>
 <p align="center">
-  <img src="https://github.com/Kseen715/imgs/blob/main/sakura_kharune.png" />
+  <img src="https://github.com/Kseen715/imgs/blob/main/sakura_kharune.png" title="Logo" alt="Logo" width="150" height="150"/>
 </p>
 
 ## Stats
