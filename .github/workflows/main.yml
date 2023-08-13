@@ -18,7 +18,7 @@ jobs:
           # Options
           template: classic
           # Base
-          base: repositories, community
+          base: activity, repositories
           # Core          
           config_timezone: Europe/Moscow
           # Lines
@@ -28,11 +28,12 @@ jobs:
           plugin_traffic: yes
           # Languages
           plugin_languages: yes
-          plugin_languages_other: no
+          plugin_languages_other: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, lines
-          plugin_languages_analysis_timeout: 15 # 1-60
+          plugin_languages_analysis_timeout: 60 # 1-60
           plugin_languages_analysis_timeout_repositories: 15 # 0-15
+          plugin_languages_categories: data, markup, programming, prose
           # Leetcode
           plugin_leetcode: yes
           plugin_leetcode_user: Kseen
