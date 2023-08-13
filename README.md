@@ -4,9 +4,6 @@
   <img src="https://github.com/Kseen715/imgs/blob/main/sakura_kharune.png" title="Logo" alt="Logo" width="150" height="150"/>
 </p>
 
-## Stats
-<img align="center" src="/github-metrics.svg" alt="Metrics">
-
 ## Tools
 <div>
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/CPP.svg" title="CPP" alt="CPP" width="40" height="40"/>
@@ -20,3 +17,6 @@
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Linux-Light.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src= "https://camo.githubusercontent.com/570197c35feaaeb87e127db0dfbeb8085ed1e1d18120d0a396452794d797bd77/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38322f476e752d626173682d6c6f676f2e7376672f3235363070782d476e752d626173682d6c6f676f2e7376672e706e67" title="Bash" alt="Bash" width="100" height="40"/>  
 </div>
+
+## Stats
+<img align="center" src="/github-metrics.svg" alt="Metrics">
