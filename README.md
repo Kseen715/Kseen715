@@ -19,6 +19,8 @@
 ## Tools & Frameworks
 <div>
   <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+
+  <img src= "https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   
   <img src= "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" width="40" height="40"/>
   
