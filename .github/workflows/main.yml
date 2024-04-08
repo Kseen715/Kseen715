@@ -39,11 +39,11 @@ jobs:
           commits_authoring: Denis Korenev, Kseen715, Kseen715@users.noreply.github.com, korenevdn@gmail.com, mrdragonpach@gmail.com, korenev_deni@edu.bstu.ru
           plugin_languages_threshold: 0
           # Leetcode
-          plugin_leetcode: yes
+          plugin_leetcode: no
           plugin_leetcode_user: Kseen
           plugin_leetcode_sections: solved
           # 16personalities
-          plugin_16personalities: yes
+          plugin_16personalities: no
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
           plugin_16personalities_sections: personality, traits # profile
           plugin_16personalities_scores: yes
