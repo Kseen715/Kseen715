@@ -36,7 +36,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 0 # 0-15
           plugin_languages_limit: 0 # 0-8
           plugin_languages_colors: github
-          plugin_languages_threshold: 0.15%
+          plugin_languages_threshold: 0%
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_ignored: text, csv, svg, xml, json, toml, css, qml, powershell, shell, markdown, md, sh, tex, desktop, latte, html, yaml, yml
           commits_authoring: Denis Korenev, Kseen715, Kseen715@users.noreply.github.com, korenevdn@gmail.com, mrdragonpach@gmail.com, korenev_deni@edu.bstu.ru, Denis Korenev / ディンヤ, kseen
@@ -57,7 +57,7 @@ jobs:
           plugin_habits_charts: graph
           plugin_habits_trim: no
           plugin_habits_languages_limit: 0 # 0-8
-          plugin_habits_languages_threshold: 0.15%
+          plugin_habits_languages_threshold: 0%
           # 16personalities
           plugin_16personalities: no
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
