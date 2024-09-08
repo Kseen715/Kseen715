@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           template: classic
-          config_padding: 5, 10 + 10%
+          config_padding: 10%, 30%
           # Base
           base: activity, repositories
           # Core          
