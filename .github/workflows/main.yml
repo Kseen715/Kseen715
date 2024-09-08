@@ -38,7 +38,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_languages_categories: data, markup, programming, prose
-          plugin_languages_ignored: text, csv, svg, xml, json, toml, css, qml, powershell, shell, markdown, md, sh, tex, desktop, latte, html, yaml, yml
+          plugin_languages_ignored: text, csv, svg, xml, json, toml, css, qml, powershell, shell, markdown, md, sh, tex, desktop, latte, html, yaml, yml, GDB, gdb, xslt, XSLT, m4, M4
           commits_authoring: Denis Korenev, Kseen715, Kseen715@users.noreply.github.com, korenevdn@gmail.com, mrdragonpach@gmail.com, korenev_deni@edu.bstu.ru, Denis Korenev / ディンヤ, kseen
           # Leetcode
           plugin_leetcode: no
@@ -53,7 +53,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 1000 # 1-1000
           plugin_habits_days: 14 # 1-30
-          plugin_habits_facts: yes
+          plugin_habits_facts: no
           plugin_habits_charts: graph
           plugin_habits_trim: no
           plugin_habits_languages_limit: 0 # 0-8
