@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           template: classic
-          config_padding: 10%, 30%
+          config_padding: 10%, 10%
           # Base
           base: activity, repositories
           # Core          
@@ -33,7 +33,7 @@ jobs:
           plugin_habits_days: 30 # 1-30
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
+          plugin_habits_charts_type: classic
           plugin_habits_trim: no
           plugin_habits_languages_limit: 8 # 0-8
           plugin_habits_languages_threshold: 0%
