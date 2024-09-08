@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@v4
+      - uses: lowlighter/metrics:v4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
