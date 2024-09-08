@@ -45,10 +45,19 @@ jobs:
           plugin_leetcode_user: Kseen
           plugin_leetcode_sections: solved
           # Topics
-          plugin_topics: yes
+          plugin_topics: no
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_topics_limit: 20 # 0-20
+          # Habits
+          plugin_habits: yes
+          plugin_habits_from: 1000 # 1-1000
+          plugin_habits_days: 14 # 1-30
+          plugin_habits_facts: yes
+          plugin_habits_charts: graph
+          plugin_habits_trim: no
+          plugin_habits_languages_limit: 0 # 0-8
+          plugin_habits_languages_threshold: 0.15%
           # 16personalities
           plugin_16personalities: no
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
