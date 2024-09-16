@@ -50,7 +50,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_indepth_custom: mikeiken/tam-prog
           plugin_languages_categories: data, markup, programming, prose
-          plugin_languages_ignored: text, csv, svg, xml, json, toml, css, qml, markdown, md, tex, desktop, latte, html, yaml, yml, GDB, gdb, xslt, XSLT, m4, M4, roff, txt, ini, lock, gitignore, nginx, pip requirements, gemfile.lock, ignore list, icalendar, robots.txt, option list, batchfile, shell, powershell, makefile, cmake, m4sugar, linker script
+          plugin_languages_ignored: text, csv, svg, xml, json, toml, css, qml, markdown, md, tex, desktop, latte, html, yaml, yml, GDB, gdb, xslt, XSLT, m4, M4, roff, txt, ini, lock, gitignore, nginx, pip requirements, gemfile.lock, ignore list, icalendar, robots.txt, option list, batchfile, shell, powershell, makefile, cmake, m4sugar, linker script, diff, roff manpage
           commits_authoring: Denis Korenev, Kseen715, Kseen715@users.noreply.github.com, korenevdn@gmail.com, mrdragonpach@gmail.com, korenev_deni@edu.bstu.ru, Denis Korenev / ディンヤ, kseen
           # Leetcode
           plugin_leetcode: no
