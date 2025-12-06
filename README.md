@@ -16,31 +16,40 @@
 
 ## Tools & Frameworks
 <div>
-  <img src= "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" height="40"/>
+  Web:&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" height="40" align="middle" />
+  <br/>
 
-  <img src= "https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" title="PostgreSQL" alt="PostgreSQL" height="40"/>
-  
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" height="40"/>
-  <img src= "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" height="40"/>
-  
-  <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/Unity-Light.svg" title="Unity" alt="Unity" height="40"/>
-  <img src="https://github.com/Jirafey/Jirafey/blob/main/images/CMake-Dark.svg" title="Cmake" alt="Cmake" height="40"/>
-  
-  <img src="https://github.com/Jirafey/Jirafey/blob/main/images/Git.svg" title="Git" alt="Git" height="40"/>
-  <img src="https://github.com/Jirafey/Jirafey/blob/main/images/GitLab-Light.svg" title="GitLab" alt="GitLab" height="40"/>
-  
-  <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Linux-Light.svg" title="Linux" alt="Linux" height="40"/>
-  <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/Arduino.svg" title="Arduino" alt="Arduino" height="40"/> 
-  <img src= "https://github.com/Kseen715/imgs/blob/main/profile/espressif-light.png" title="ESP boards" alt="ESP boards" height="40"/> 
+  Back:&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" height="40" align="middle" />
+  <br/>
 
-  
-  <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/Bash-Light.svg" title="Bash" alt="Bash" height="40"/>
-  <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/LaTeX-Light.svg" title="LaTeX" alt="LaTeX" height="40"/>
+  DB:&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="40" align="middle" />
+  <br/>
+
+  Low level:&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Jirafey/Jirafey/main/images/Arduino.svg" alt="Arduino" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/Kseen715/imgs/main/profile/espressif-light.png" alt="ESP boards" height="40" align="middle" />
+  <br/>
+
+  DevOps:&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-plain-wordmark.svg" alt="Proxmox" height="40" align="middle" />
+  <br/>
+
+  VC:&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Jirafey/Jirafey/main/images/Git.svg" alt="Git" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/Jirafey/Jirafey/main/images/GitLab-Light.svg" alt="GitLab" height="40" align="middle" />
+  <img src="https://github.com/user-attachments/assets/3c610239-9780-4fff-b6b5-16177f053af4" alt="Gitverse" height="40" align="middle" />
 </div>
 
 ## Stats
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-<!-- <img align="center" src="/metrics/lang-recent.svg" alt="Metrics Lang Recent"> -->
+<img align="center" src="/metrics/lang-recent.svg" alt="Metrics Lang Recent">
 
 
 [<img align="right" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
