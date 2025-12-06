@@ -1,0 +1,38 @@
+name: Metrics-lang-recent
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: "metrics/lang-recent.svg"
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          template: classic
+          config_padding: 10%, 20%
+          # Core          
+          config_timezone: Europe/Moscow
+          # Languages
+          plugin_languages: yes
+          plugin_languages_other: no
+          plugin_languages_indepth: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_limit: 0 # 0-8
+          plugin_languages_colors: github
+          plugin_languages_threshold: 0%
+          plugin_languages_indepth_custom: mikeiken/tam-prog
+          plugin_languages_categories: markup, programming, prose # data, markup, programming, prose
+          plugin_languages_recent_categories: markup, programming, prose
+          plugin_languages_recent_days: 180
+          plugin_languages_ignored: perl, ruby, Dockerfile, text, csv, svg, xml, html, json, toml, css, qml, markdown, md, tex, desktop, latte, yaml, yml, GDB, gdb, xslt, XSLT, m4, M4, roff, txt, ini, lock, gitignore, nginx, pip requirements, gemfile.lock, ignore list, icalendar, robots.txt, option list, batchfile, shell, powershell, makefile, cmake, m4sugar, linker script, diff, roff manpage, blade, objective-c, jupyter notebook
+          commits_authoring: Denis Korenev, Kseen715, Kseen715@users.noreply.github.com, korenevdn@gmail.com, mrdragonpach@gmail.com, korenev_deni@edu.bstu.ru, Denis Korenev / ディンヤ, kseen, "Denis Korenev / ディンヤ
