@@ -17,6 +17,7 @@ jobs:
           filename: "metrics/lang-recent.svg"
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
+          base: ""
           template: classic
           config_padding: 10%, 20%
           # Core          
