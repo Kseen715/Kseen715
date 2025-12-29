@@ -38,6 +38,7 @@
 
   DevOps:&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/portainer/portainer-original.svg" alt="Proxmox" height="40" align="middle" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-plain-wordmark.svg" alt="Proxmox" height="40" align="middle" />
   <br/>
 
