@@ -49,8 +49,9 @@
 </div>
 
 ## Stats
-<img align="center" src="/github-metrics.svg" alt="Metrics">
-<img align="center" src="/metrics/lang-recent.svg" alt="Metrics Lang Recent">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kseen715&show=reviews,prs_merged_percentage&show_icons=true&theme=transparent&hide_rank=True&include_all_commits=true&disable_animations=true&card_width=500px&hide_title=True" alt="Metrics">
+<!-- <img align="center" src="/github-metrics.svg" alt="Metrics"> -->
+<!-- <img align="center" src="/metrics/lang-recent.svg" alt="Metrics Lang Recent"> -->
 
 
 [<img align="right" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
