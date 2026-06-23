@@ -24,7 +24,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Kseen715&card_width=700&&hide_border=true&theme=transparent&langs_count=20&disable_animations=true&layout=compact&hide=Jupyter%20Notebook,Shell,CSS,HTML,Markdown,Powershell,Dockerfile,Jinja,QML,Batchfile,Latte,Blade,Makefile,Ruby,CMake,Objective-C,TeX,Roff,Perl
+          options: username=Kseen715&card_width=400&&hide_border=true&theme=transparent&langs_count=20&disable_animations=true&layout=compact&hide=Jupyter%20Notebook,Shell,CSS,HTML,Markdown,Powershell,Dockerfile,Jinja,QML,Batchfile,Latte,Blade,Makefile,Ruby,CMake,Objective-C,TeX,Roff,Perl
           path: metrics/top-langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
