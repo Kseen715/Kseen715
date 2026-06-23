@@ -4,9 +4,9 @@ entries greedily into rows by width, wrapping like words in a paragraph.
 Short names => more per row; long names => fewer."""
 import re, sys, os
 
-ROW_HEIGHT = float(os.environ.get("ROW_HEIGHT", 25))
+ROW_HEIGHT = float(os.environ.get("ROW_HEIGHT", 15))
 PADDING_X = float(os.environ.get("PADDING_X", 25))
-GAP = float(os.environ.get("GAP", 20))          # space between entries
+GAP = float(os.environ.get("GAP", 5))          # space between entries
 CHAR_W = float(os.environ.get("CHAR_W", 6.2))   # px per char at 11px font
 DOT_W = float(os.environ.get("DOT_W", 15))      # circle + gap before text
 MAX_WIDTH_ENV = os.environ.get("MAX_WIDTH")
