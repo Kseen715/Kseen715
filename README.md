@@ -49,9 +49,9 @@
 </div>
 
 ## Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kseen715&show=reviews,prs_merged_percentage&show_icons=True&theme=transparent&hide_rank=True&include_all_commits=True&disable_animations=True&card_width=300px&hide_title=True" alt="Metrics">
+<img align="center" src="./metrics/stats.svg" alt="Stats">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kseen715&card_width=400px&langs_count=20&disable_animations=True&theme=transparent&layout=compact&hide=Jupyter%20Notebook,Shell,CSS,HTML,Markdown,Powershell,Dockerfile,Jinja,QML,Batchfile,Latte,Blade,Makefile,Ruby,CMake,Objective-C" alt="Metrics Lang">
+<img align="center" src="./metrics/top-langs.svg" alt="Top Languages">
 <!-- <img align="center" src="/github-metrics.svg" alt="Metrics"> -->
 <!-- <img align="center" src="/metrics/lang-recent.svg" alt="Metrics Lang Recent"> -->
 
