@@ -49,8 +49,8 @@
 </div>
 
 ## Stats
-<img align="center" src="./metrics/stats.svg" alt="Stats">
 
+<img align="center" src="./metrics/stats.svg" alt="Stats">
 <img align="center" src="./metrics/top-langs.svg" alt="Top Languages">
 <!-- <img align="center" src="/github-metrics.svg" alt="Metrics"> -->
 <!-- <img align="center" src="/metrics/lang-recent.svg" alt="Metrics Lang Recent"> -->
