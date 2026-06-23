@@ -7,8 +7,8 @@
 ## Languages
 <div>
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/C.svg" title="C" alt="C" height="40"/>
-  <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Rust.svg" title="Rust" alt="Rust" height="40"/>
   <img src= "https://raw.githubusercontent.com/jirafey/jirafey/main/images/Python-Dark.svg" title="Python" alt="Python" height="40"/>
+  <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Rust.svg" title="Rust" alt="Rust" height="40"/>
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/CPP.svg" title="CPP" alt="CPP" height="40"/>
   <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/JavaScript.svg" title="JavaScript" alt="JavaScript" height="40"/>
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/CS.svg" title="C#" alt="C#" height="40"/>
@@ -17,35 +17,43 @@
 ## Tools & Frameworks
 <div>
   Web:&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="40" align="middle" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" height="40" align="middle" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="40" align="middle" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" height="40" align="middle" title="VueJS"/>
   <br/>
 
   Back:&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" align="middle" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" align="middle" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40" align="middle" title="Django" alt="Django"/>
   <br/>
 
   DB:&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" align="middle" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" align="middle" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="40" align="middle" title="SQLite"/>
   <br/>
 
   Low level:&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Jirafey/Jirafey/main/images/Arduino.svg" alt="Arduino" height="40" align="middle" />
-  <img src="https://raw.githubusercontent.com/Kseen715/imgs/main/profile/espressif-light.png" alt="ESP boards" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/Jirafey/Jirafey/main/images/Arduino.svg" alt="Arduino" height="40" align="middle" title="Arduino"/>
+  <img src="https://raw.githubusercontent.com/Kseen715/imgs/main/profile/espressif-light.png" alt="ESP boards" height="40" align="middle" title="ESP boards"/>
   <br/>
 
   DevOps:&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" align="middle" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/portainer/portainer-original.svg" alt="Proxmox" height="40" align="middle" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-plain-wordmark.svg" alt="Proxmox" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" align="middle" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/portainer/portainer-original.svg" alt="Portainer" height="40" align="middle" title="Portainer"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-plain-wordmark.svg" alt="Proxmox" height="40" align="middle" title="Proxmox"/>
   <br/>
 
   VC:&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Jirafey/Jirafey/main/images/Git.svg" alt="Git" height="40" align="middle" />
-  <img src="https://raw.githubusercontent.com/Jirafey/Jirafey/main/images/GitLab-Light.svg" alt="GitLab" height="40" align="middle" />
-  <img src="https://github.com/user-attachments/assets/3c610239-9780-4fff-b6b5-16177f053af4" alt="Gitverse" height="40" align="middle" />
+  <img src="https://raw.githubusercontent.com/Jirafey/Jirafey/main/images/Git.svg" alt="Git" height="40" align="middle" title="Git"/>
+  <img src="https://raw.githubusercontent.com/Jirafey/Jirafey/main/images/GitLab-Light.svg" alt="Self-hosted GitLab" height="40" align="middle" title="Self-hosted GitLab"/>
+  <img src="https://github.com/user-attachments/assets/3c610239-9780-4fff-b6b5-16177f053af4" alt="Gitverse" height="40" align="middle" title="Gitverse"/>
+
+  Tools:&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apacheairflow/apacheairflow-original.svg" alt="Git" height="40" align="middle" title="Apache Airflow" alt="Apache Airflow"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postman/postman-original.svg" alt="Git" height="40" align="middle" title="postman" alt="postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/grafana/grafana-original.svg" alt="Git" height="40" align="middle" title="grafana" alt="grafana"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/prometheus/prometheus-original.svg" alt="Git" height="40" align="middle" title="prometheus" alt="prometheus"/>
+  
+  
 </div>
 
 ## Stats
