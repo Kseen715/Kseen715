@@ -49,10 +49,8 @@
 </div>
 
 ## Stats
+<img align="left" alt="🦑" src="https://github.com/user-attachments/assets/b5168f21-9448-4dd7-9094-10149ad0d59a" height="220">
+<a href="#"><img align="left" src="./metrics/stats.svg" alt="Stats"></a>
+<br clear="all">
 
-<img align="center" src="./metrics/stats.svg" alt="Stats"></br><img align="center" src="./metrics/top-langs.svg" alt="Top Languages">
-<!-- <img align="center" src="/github-metrics.svg" alt="Metrics"> -->
-<!-- <img align="center" src="/metrics/lang-recent.svg" alt="Metrics Lang Recent"> -->
-
-
-[<img align="right" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
+<img align="center" src="./metrics/top-langs.svg" alt="Top Languages">
