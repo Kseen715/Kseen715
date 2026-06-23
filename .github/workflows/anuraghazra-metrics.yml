@@ -24,9 +24,12 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Kseen715&card_width=500&&hide_border=true&theme=transparent&langs_count=20&disable_animations=true&layout=compact&hide=Jupyter%20Notebook,Shell,CSS,HTML,Markdown,Powershell,Dockerfile,Jinja,QML,Batchfile,Latte,Blade,Makefile,Ruby,CMake,Objective-C
+          options: username=Kseen715&card_width=500&&hide_border=true&theme=transparent&langs_count=20&disable_animations=true&layout=compact&hide=Jupyter%20Notebook,Shell,CSS,HTML,Markdown,Powershell,Dockerfile,Jinja,QML,Batchfile,Latte,Blade,Makefile,Ruby,CMake,Objective-C,TeX,Roff,Perl
           path: metrics/top-langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Reflow top languages into wrapping rows
+        run: python3 scripts/reflow_langs.py metrics/top-langs.svg
 
       - name: Commit cards
         run: |
