@@ -11,7 +11,7 @@
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Rust.svg" title="Rust" alt="Rust" height="40"/>
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/CPP.svg" title="CPP" alt="CPP" height="40"/>
   <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/JavaScript.svg" title="JavaScript" alt="JavaScript" height="40"/>
-  <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/CS.svg" title="C#" alt="C#" height="40"/>
+  <!-- <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/CS.svg" title="C#" alt="C#" height="40"/> -->
 </div>
 
 ## Tools & Frameworks
