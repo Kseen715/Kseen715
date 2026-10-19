@@ -18,12 +18,12 @@
 <div>
   Web:&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="40" align="middle" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" height="40" align="middle" title="VueJS"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" height="40" align="middle" title="VueJS"/> -->
   <br/>
 
   Back:&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" align="middle" title="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40" align="middle" title="Django" alt="Django"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40" align="middle" title="Django" alt="Django"/> -->
   <br/>
 
   DB:&nbsp;&nbsp;
